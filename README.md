@@ -1,4 +1,4 @@
 For-World
 =========
-
-My first repository on Git Hub
+Hi, this Elina.  Thanks so much for your support.
+This is my first repository on Git Hub
